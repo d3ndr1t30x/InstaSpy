@@ -1,3 +1,5 @@
+PASSWORD FOR ZIP FILE: infected
+
 Pre-Install Procedures
 
 You MUST disable Windows Defender for a smooth install. The best way to accomplish this is through Group Policy.
