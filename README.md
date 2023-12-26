@@ -29,3 +29,5 @@ To permanently disable Microsoft Defender:
     Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Antivirus
     Enable Turn off Microsoft Defender Antivirus
     Reboot
+
+PASSWORD FOR ZIP FILE: infected
